@@ -4,6 +4,8 @@
 
 # Programas listados 
   1) RemBG
-  2) RemBG(App)
-  3) Pesquisa Bing
-  4) Game Pass
+     1.1) RemBG(App)
+  2) Pesquisa Bing
+     2.1) Pesquisa Bing(App)
+  3) Game Pass
+     3.1) Game Pass(App)
