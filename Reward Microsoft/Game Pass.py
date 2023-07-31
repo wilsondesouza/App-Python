@@ -48,7 +48,9 @@ def cloudGaming():
 xbox()
 sleep(5)
 bluestacks()    
-sleep(2)  
+sleep(2) 
+fallout() 
+sleep(2) 
 cloudGaming()
 
 
