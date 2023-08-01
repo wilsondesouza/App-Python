@@ -57,6 +57,7 @@ def iniciar():
     fallout() 
     sleep(2) 
     cloudGaming()
+    quit()
 
 def startMusic():
     pygame.mixer.init()
@@ -82,6 +83,7 @@ style = Style()
 style.configure("Custom.TButton", foreground = 'blue', background = 'black', font= "Verdana 10 underline")
 
 # Interface #
+
 def proximo():
     desc1 = '2) Deixe logada - e para sua comobidade, marque a opção "Permanecer conectado", no navegador - a conta que pretende "farmar" os pontos'
     desc0.config(text = desc1)
@@ -112,13 +114,3 @@ stop_music = Button(gui, image = stop_icon, command=stopMusic).place(x = 80, y =
 restart_music = Button(gui, image = play_icon, command=restartMusic).place(x = 30, y = 180) 
 
 gui.mainloop()
-
-
-
-
-# Interface #
-# desc0 = Label(gui, text = "Para utilizar este programa sem maiores erros, é necessário ter instalado alguns programas específicos").place(x = 130, y = 60) 
-# desc1 = Label(gui, text = 'Tratam-se do game "Fallout Shelter" e do emulador "Bluestacks"').place(x = 250, y = 90) 
-# desc2 = Label(gui, text = 'OBS: O navegador utilizado será o Edge, caso não o tenha instalado e/ou a conta esteja logada em outro navegador, poderão haver erros').place(x = 40, y = 120)
-# desc3 = Label(gui, text = 'Caso tenha resolvido estas pendências, clique em "Iniciar" logo abaixo').place(x = 220, y = 150) 
-# start_button = Button(gui, text = "Iniciar", command=iniciar).place(x = 400, y = 200)
