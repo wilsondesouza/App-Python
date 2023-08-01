@@ -29,7 +29,7 @@ def pontos():
 
 def startMusic():
     pygame.mixer.init()
-    pygame.mixer.music.load("media/sounds/music.mp3")
+    pygame.mixer.music.load("./media/sounds/music.mp3")
     pygame.mixer.music.set_volume(.09)
     pygame.mixer.music.play()
 
@@ -37,7 +37,7 @@ def stopMusic():
     pygame.mixer.music.stop()
 
 def restartMusic():
-    pygame.mixer.music.load("media/sounds/music.mp3")
+    pygame.mixer.music.load("./media/sounds/music.mp3")
     pygame.mixer.music.set_volume(.09)
     pygame.mixer.music.play()
 
@@ -51,7 +51,7 @@ def iniciar ():
 gui = Tk()  
 gui.geometry('800x250')  
 gui.title('Pesquisa Bing')
-gui.iconbitmap("media/imgs/reward.ico")
+gui.iconbitmap("./media/imgs/reward.ico")
 style = Style()
 style.configure("Custom.TButton", foreground = 'blue', background = 'black', font= "Verdana 10 underline")
  
