@@ -1,0 +1,11 @@
+Fazer GUI e inserir condicional para início dos programas.
+Exemplos: 
+1) Pesquisa Bing: Buscar informar e saber se o usuário têm alguma conta de estudante e/ou outra logada
+na máquina que seja diferente da conta a qual ele busca "farmar" os pontos.
+1.1) Pedir para desconectar tal conta se necessário, e questionar se os preparativos foram feitos
+para poder iniciar o programa de fato.
+
+2) Game Pass: Buscar informar o usuário sobre alguns programas necessários para o programa funcionar
+do início ao fim sem maiores problemas. Tendo em vista que o código foi pensado, implementado e utiliza 
+de alguns programas específicos, como: Fallout Shelter e Bluestacks.
+2.1) Pedir para realizar tais preparativos, como baixar o game e o emulador supramencionados, configurando-os.
