@@ -18,6 +18,10 @@
   
       3.1 Game Pass(App)
 
+  7) Youtube MP3
+
+     7.1 Youtube MP3 (App)
+
 ## 📚 Documentação
 -[Python](https://docs.python.org/3/)
 
@@ -28,5 +32,7 @@
 -[PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
 
 -[Auto PY to EXE](https://pypi.org/project/auto-py-to-exe/)
+
+-[PyTube]([https://pypi.org/project/auto-py-to-exe/](https://pytube.io/en/latest/)https://pytube.io/en/latest/)
 
       
