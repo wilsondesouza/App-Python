@@ -33,6 +33,6 @@
 
 -[Auto PY to EXE](https://pypi.org/project/auto-py-to-exe/)
 
--[PyTube]([https://pypi.org/project/auto-py-to-exe/](https://pytube.io/en/latest/)https://pytube.io/en/latest/)
+-[PyTube](https://pytube.io/en/latest/)
 
       
