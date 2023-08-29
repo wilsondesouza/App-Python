@@ -23,11 +23,13 @@
      4.1 Youtube MP3 (App)
 
 ### ✔ Downloads
-[RewardMicrosoft](https://www.mediafire.com/file/0w9tw31xrjeymny/RewardMicrosoft.rar/file)
+[RewardMicrosoft](https://www.mediafire.com/file/dfgvwvqgeujwhqg/RewardMicrosoft.rar/file)
 
-[RemBG(App)](https://www.mediafire.com/file/ve4l0h5dcxnubjh/RemBG%2528App%2529.rar/file)
+[RemBG(App)](https://www.mediafire.com/file/2t6v1bq4sdia2ey/RemBG.rar/file)
 
-[YoutubeMP3](https://www.mediafire.com/file/2y2diwfvlzy2q0e/YoutubeMP3.rar/file)
+[YoutubeMP3](https://www.mediafire.com/file/m3y8ur7fjqfkqet/YoutubeMP3.rar/file)
+
+[YoutubeMP3v2](https://www.mediafire.com/file/sxb9mesliobd38l/YoutubeMP3v2.rar/file)
 
 
 ## 📚 Documentação
