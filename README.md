@@ -23,11 +23,13 @@
      4.1 Youtube MP3 (App)
 
 ### ✔ Downloads
-[RewardMicrosoft](https://www.mediafire.com/file/0w9tw31xrjeymny/RewardMicrosoft.rar/file)
+[RewardMicrosoft](https://www.mediafire.com/file/z4jr5kf2mb4p7mh/RewardMicrosoft.rar/file)
 
-[RemBG(App)](https://www.mediafire.com/file/ve4l0h5dcxnubjh/RemBG%2528App%2529.rar/file)
+[RemBG](https://www.mediafire.com/file/g3hl1knnohvhi16/RemBG.rar/file)
 
-[YoutubeMP3](https://www.mediafire.com/file/2y2diwfvlzy2q0e/YoutubeMP3.rar/file)
+[YoutubeMP3](https://www.mediafire.com/file/k3m2mfn9x2bzn30/YoutubeMP3.rar/file)
+
+[YoutubeMP3v2](https://www.mediafire.com/file/9a4sxgs5o1s83ld/YoutubeMP3v2.rar/file)
 
 
 ## 📚 Documentação
@@ -37,7 +39,11 @@
 
 -[Tkinter](https://python.readthedocs.io/en/stable/library/tkinter.html)
 
+-[CustomTkinter](https://customtkinter.tomschimansky.com/documentation/)
+
 -[PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
+
+-[Pillow]([https://pyautogui.readthedocs.io/en/latest/](https://pillow.readthedocs.io/en/latest/index.html#))
 
 -[Auto PY to EXE](https://pypi.org/project/auto-py-to-exe/)
 
