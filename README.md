@@ -43,7 +43,7 @@
 
 -[PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
 
--[Pillow]((https://pillow.readthedocs.io/en/latest/index.html#))
+-[Pillow](https://pillow.readthedocs.io/en/latest/index.html)
 
 -[Auto PY to EXE](https://pypi.org/project/auto-py-to-exe/)
 
