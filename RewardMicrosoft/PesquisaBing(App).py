@@ -31,7 +31,7 @@ def pontos():
 
 def startMusic():
     pygame.mixer.init()
-    pygame.mixer.music.load("RewardMicrosoft/media/sounds/music.mp3")
+    pygame.mixer.music.load("media/sounds/music.mp3")
     pygame.mixer.music.set_volume(.09)
     pygame.mixer.music.play()
 
@@ -39,7 +39,7 @@ def stopMusic():
     pygame.mixer.music.stop()
 
 def restartMusic():
-    pygame.mixer.music.load("RewardMicrosoft/media/sounds/music.mp3")
+    pygame.mixer.music.load("media/sounds/music.mp3")
     pygame.mixer.music.set_volume(.09)
     pygame.mixer.music.play()
 
@@ -54,7 +54,7 @@ def iniciar ():
 gui = Tk()  
 gui.geometry('800x250')  
 gui.title('Pesquisa Bing')
-p1 = PhotoImage(file='RewardMicrosoft/media/imgs/reward.png')
+p1 = PhotoImage(file='media/imgs/icon.png')
 gui.iconphoto(False, p1)
 gui.resizable(0,0)
 style = Style()
@@ -84,9 +84,9 @@ desc5 = Label(gui, text = 'O programa será encerrado automaticamente').place(x 
 start_button = Button(gui, text= "Iniciar", command=iniciar, style= "Custom.TButton").place(x = 350, y = 140)
 
 # Música de Fundo #
-play = PhotoImage(file = "RewardMicrosoft/media/imgs/play.png")
+play = PhotoImage(file = "media/imgs/play.png")
 play_icon = play.subsample(5, 5)
-stop = PhotoImage(file = "RewardMicrosoft/media/imgs/stop.png")
+stop = PhotoImage(file = "media/imgs/stop.png")
 stop_icon = stop.subsample(13, 13) 
 stop_music = Button(gui, image = stop_icon, command=stopMusic).place(x = 80, y = 180) 
 restart_music = Button(gui, image = play_icon, command=restartMusic).place(x = 30, y = 180) 
